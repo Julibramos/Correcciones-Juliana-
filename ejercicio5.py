@@ -1,4 +1,3 @@
- def saludar(nombre):
+def saludar(nombre):
      print("¡Hola, " + nombre + "!")
-
- saludar("María")
+saludar("María")
