@@ -1,4 +1,4 @@
 def invertir_cadena(cadena):
-    return cadena[::-]
-
+    cadena_invertida= cadena [:: -1 ]
+    return cadena_invertida
 print(invertir_cadena("hola"))
